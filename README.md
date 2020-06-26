@@ -1,5 +1,4 @@
-# Springboard Capstone 1
-A Github repository for my Capstone project 1.
+# Predicting Austin Airbnb Prices
 
 The objective of this project is to develop a machine learning model that would help determine the most advantageous average nightly rental price for a given Airbnb listing in Austin.  
 
