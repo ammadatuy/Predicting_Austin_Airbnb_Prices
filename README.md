@@ -1,6 +1,6 @@
 # Predicting Austin Airbnb Prices
 
-The objective of this project is to develop a machine learning model that would help determine the most advantageous average nightly rental price for a given Airbnb listing in Austin.  
+The objective of this project is to develop a machine learning model that would help me predict the best rental prices for Airbnb listings in Austin.
 
 I downloaded the publicly available data directly from the Inside Airbnb website. You can access the data here: http://insideairbnb.com/get-the-data.html
 
